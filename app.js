@@ -16,3 +16,10 @@ for (i = 0; i < acc.length; i++) {
     }
   });
 }
+
+( function( $ ) {
+  $( document ).ready( function(){
+      $('.panel-collapse').removeClass('in');
+      $('.panel-title > a').addClass('collapsed');
+  });
+})( jQuery );
