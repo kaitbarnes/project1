@@ -165,7 +165,7 @@ div.container{
     padding-top: 50px; 
     
     }
-    @media (max-width: 500px) {
+    @media (max-width: 768px) {
       div.container {
         width: 50%;
         padding-top: 100px;
