@@ -247,9 +247,7 @@ div.container{
   display: none;
   overflow: hidden;
   text-align: left;
-  /* max-width: 500px;
-  min-width: 300px; */
-  width: 500px;
+  width: 300px;
 }
 
 #recipe{
