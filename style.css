@@ -157,15 +157,24 @@ div.container{
     align-items: center; 
     width: 100%; 
     box-sizing: border-box;
-    padding-top: 1000px;
+    padding-top: 50px;
     
     }
     div.content {
     width: 50%; 
-    padding-top: 100px; 
+    padding-top: 50px; 
     
     }
-
+    @media (max-width: 500px) {
+      div.container {
+        width: 50%;
+        padding-top: 100px;
+      }
+      div.content {
+        width: 25%;
+        padding-top: 200px; 
+      }
+    }
   
     
 footer {
