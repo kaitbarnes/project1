@@ -226,7 +226,7 @@ div.container{
   color: #dff7e8;
   cursor: pointer;
   padding: 18px;
-  max-width: 300px;
+  max-width:300px;
   text-align:left;
   border: 2px solid white;
   border-radius: 10px;
@@ -247,6 +247,9 @@ div.container{
   display: none;
   overflow: hidden;
   text-align: left;
+  /* max-width: 500px;
+  min-width: 300px; */
+  width: 500px;
 }
 
 #recipe{
