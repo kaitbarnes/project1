@@ -144,8 +144,8 @@ body {
   }
 
   #kaitkyle {
-    max-width: 25%;
-    max-height: 25%;
+    max-width: 50%;
+    max-height: 50%;
     border-radius: 5%;
   }
 
@@ -167,11 +167,11 @@ div.container{
     }
     @media (max-width: 768px) {
       div.container {
-        width: 50%;
+        width: 100%;
         padding-top: 100px;
       }
       div.content {
-        width: 25%;
+        width: 50%;
         padding-top: 200px; 
       }
     }
