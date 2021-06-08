@@ -157,12 +157,12 @@ div.container{
     align-items: center; 
     width: 100%; 
     box-sizing: border-box;
-    padding-top: 100px;
+    padding-top: 1000px;
     
     }
     div.content {
     width: 50%; 
-    padding-top: 50px; 
+    padding-top: 100px; 
     
     }
 
